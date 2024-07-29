@@ -4,7 +4,7 @@
 
 Hello,
 
-In this coding exercise you I be addressing an issue/task that is central to day-to-day work: writing and maintaining microservices. This exercise aims to showcase a small microservice that fetches/calculates information about employees, creates plots and can be remotely health checked, all while running in a container.
+In this coding exercise I be addressing an issue/task that is central to day-to-day work: writing and maintaining microservices. This exercise aims to showcase a small microservice that fetches/calculates information about employees, creates plots and can be remotely health checked, all while running in a container.
 
 ## The service
 
